@@ -1,0 +1,70 @@
+.SettingsFrame {
+    width: 340px;
+    height: 250px;
+    border: 3px solid #08d3ff;
+    border-radius: 10px;
+    background-color: #777777;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.ValueFrame {
+    width: 300px;
+    height: 120px;
+    border: 3px solid #08d3ff;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    gap: 20px;
+}
+
+.ButtonFrame {
+    width: 300px;
+    height: 70px;
+    border: 3px solid #08d3ff;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+
+.ValueFlex{
+    display: flex;
+color: #08d3ff;
+    gap: 30px;
+}
+
+.counterSet{
+    display: flex;
+    gap: 10px;
+}
+
+.error{
+    font-weight: 600;
+    font-size: 25px;
+    color: #e00202;
+}
+
+.Button {
+    border: none;
+    font: inherit;
+    color: #777777;
+    background-color: #08d3ff;
+    cursor: pointer;
+    padding: 5px 15px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.mute {
+    opacity: 0.4;
+}
+
+
+

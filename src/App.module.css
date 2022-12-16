@@ -1,0 +1,11 @@
+.App{
+  display: flex;
+  gap: 50px;
+  margin: 50px;
+  align-items: center;
+}
+
+.arrow{
+  font-size: 40px;
+  color: #08d3ff;
+}
